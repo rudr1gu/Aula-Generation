@@ -1,7 +1,7 @@
 # Aula Generation - Comandos Básicos
 
 ## Introdução
-Este documento contém os comandos básicos utilizados durante a aula do curso da Generation.
+Este documento contém os comandos básicos utilizados durante a aula do curso da' Generation.
 
 ## Comandos Git
 
